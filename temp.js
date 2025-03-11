@@ -13,5 +13,5 @@
 (function() {
     'use strict';
 
-    console.log("你好世界 i like you")
+    console.log("你好世界 i like you test")
 })();
